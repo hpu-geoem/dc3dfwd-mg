@@ -1,0 +1,12 @@
+set fe_degree = 2
+
+set n_adaptive_refinements = 0
+set n_global_refinements = 0
+
+set solver = AMG
+
+set rtol = 1E-8
+set max_iter = 100
+set refine_fraction = 0.1
+set iprefix = halfspace
+set oprefix = halfspace

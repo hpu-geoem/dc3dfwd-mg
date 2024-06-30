@@ -1,0 +1,17 @@
+build*
+/dc3dfwd
+
+*.cfg
+*.log
+*.vtk
+*.vtu
+*.dat
+*.emd
+*.rho
+*.rsp
+*.tria
+.DS_Store
+
+.vscode/
+.devcontainer/
+.cache/
